@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Specialist @ Codeforces (Max rating 1458)<br>Currently working on a personal web project while learning Redis and web hosting.</p>
+<p align="left">Specialist @ Codeforces (Max rating 1475)<br>Currently working on a personal web project while learning Redis and web hosting.</p>
 
 ###
 
