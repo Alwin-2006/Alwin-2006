@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwin</h1>
+<h1 align="center">Hi 👋, I'm Alwin Santhosh</h1>
 <h3 align="center">A student currently studying in National Institute of Technology,Calicut. I'm passionate about competitive programming and web development</h3>
 
 <h3 align="left">Connect with me:</h3>
